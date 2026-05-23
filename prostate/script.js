@@ -5,16 +5,16 @@
 const CONFIG = {
     // ⏱️ Tempo de Delay: Formato "Minutos:Segundos"
     // Exemplo: "48:55", "12:00" ou "00:15"
-    tempoDeDelay: "00:01",
+    tempoDeDelay: "23:43",
 
     // 🔗 Links de Checkout dos Botões (Men Balance Pro)
     // SUBSTITUIR o domínio YOUR-DOMAIN.com pelo domínio real onde a página
     // estará hospedada (normalmente o mesmo domínio que resolve a rota /b).
     // O placeholder {subid} será resolvido com o melhor identificador disponível
     // (sub_id > subid > fbclid > gclid > ttclid > vazio)
-    linkPote2: "https://YOUR-DOMAIN.com/b?p=MBP2V1&nc=1&preview=1&b=123&pg=9382&template=2b&subid={subid}",
-    linkPote6: "https://YOUR-DOMAIN.com/b?p=MBP6V1&nc=1&preview=1&b=123&pg=9382&template=6b&subid={subid}",
-    linkPote3: "https://YOUR-DOMAIN.com/b?p=MBP3V1&nc=1&preview=1&b=123&pg=9382&template=3b&subid={subid}"
+    linkPote2: "https://travozilla.com/b?p=MBP2V1&nc=1&preview=1&b=123&fid=268&fnid=72&pfnid=1&pg=9207&template=2b&aff_id=118759",
+    linkPote6: "https://travozilla.com/b?p=MBP6V1&nc=1&preview=1&b=123&fid=268&fnid=72&pfnid=1&pg=9207&template=6b&aff_id=118759",
+    linkPote3: "https://travozilla.com/b?p=MBP3V1&nc=1&preview=1&b=123&fid=268&fnid=72&pfnid=1&pg=9207&template=3b&aff_id=118759"
 };
 
 // =====================================================================
